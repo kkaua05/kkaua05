@@ -1,7 +1,7 @@
 # 👨‍💻 Kauã Ferreira
 **`Full Stack Developer`**
 
-Me chamo Kauã Ferreira, tenho 20 anos e sou apaixonado por tecnologia e desenvolvimento de software. Desenvolvo aplicações web utilizando React, Next.js, TypeScript, Node.js, PHP, MySQL e MongoDB, com foco em criar soluções modernas, eficientes e bem estruturadas.
+Me chamo Kauã, tenho 20 anos e sou apaixonado por tecnologia e desenvolvimento de software. Desenvolvo aplicações web utilizando React, Next.js, TypeScript, Node.js, PHP, MySQL e MongoDB, com foco em criar soluções modernas, eficientes e bem estruturadas.
 
 Atualmente dedico meu tempo ao desenvolvimento de projetos reais, aprimorando constantemente minhas habilidades em arquitetura de sistemas, boas práticas de programação e desenvolvimento Full Stack.
 
